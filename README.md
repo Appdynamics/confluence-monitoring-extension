@@ -133,7 +133,7 @@ Note : Please make sure to not use tab (\t) while editing yaml files. You may wa
     ```
 
 ## Custom Dashboard ##
-![]()
+![](https://github.com/Appdynamics/confluence-monitoring-extension/blob/master/Confluence_Dashboard.png?raw=true)
 
 ## Contributing ##
 
