@@ -1,5 +1,5 @@
-confluence-monitoring-extension
-==============================
+AppDynamics Monitoring Extension for use with Atlassian Confluence
+===================================================================
 
 An AppDynamics extension to be used with a stand alone Java machine agent to provide metrics for Atlassian Confluence
 

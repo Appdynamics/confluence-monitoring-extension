@@ -1,7 +1,7 @@
     <monitor>
         <name>ConfluenceMonitor</name>
         <type>managed</type>
-        <description>Confluence monitor</description>
+        <description>AppDynamics Monitoring Extension for use with Atlassian Confluence</description>
         <monitor-configuration></monitor-configuration>
         <monitor-run-task>
                 <execution-style>periodic</execution-style>
